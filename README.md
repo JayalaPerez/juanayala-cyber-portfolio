@@ -50,8 +50,8 @@ Código fuente en `docs/`.
 ## 📬 Contacto
 
 
-- Email: tu-correo@ejemplo.com
-- LinkedIn: https://www.linkedin.com/in/TU-USUARIO/
+- Email: jayala.perez1986@gmail.com
+- LinkedIn: https://www.linkedin.com/in/TU-USUARIO/](https://www.linkedin.com/in/juan-ayala-perez-11a064117/
 
 
 ---
